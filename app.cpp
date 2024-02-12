@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
-void main(){
+
+int main(){
   cout << "Lez gooooo";
+  return 0;
 }
