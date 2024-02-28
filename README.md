@@ -1,2 +1,2 @@
-# Snake-Game
-Snake Game with c++ without GUI
+# Maze-Game
+Maze Game with c++ without GUI
